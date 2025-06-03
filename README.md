@@ -1,2 +1,0 @@
-# Algoritmos-Ordenacao
-Algoritmos-Ordenacao
